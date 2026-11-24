@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pixel-style crimson blade + glowing flame eye -->
+    <path
+        android:fillColor="#E63946"
+        android:pathData="M68,22h10v10h-10zM60,30h10v10h-10zM52,38h10v10h-10zM44,46h10v10h-10zM36,54h10v10h-10z" />
+    <path
+        android:fillColor="#FF9F1C"
+        android:pathData="M70,24h6v6h-6zM62,32h6v6h-6zM54,40h6v6h-6zM46,48h6v6h-6z" />
+    <path
+        android:fillColor="#F1FAEE"
+        android:pathData="M30,54h6v6h-6zM38,62h6v6h-6zM32,60h6v6h-6z" />
+    <path
+        android:fillColor="#8D99AE"
+        android:pathData="M26,68h8v8h-8zM22,74h6v6h-6z" />
+    <!-- Glowing Crimson Cell orb -->
+    <path
+        android:fillColor="#FF2E63"
+        android:pathData="M66,60h16v16h-16z" />
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M70,64h8v8h-8z" />
+</vector>
